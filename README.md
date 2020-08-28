@@ -2,6 +2,8 @@
 
 This is an example to solve the issue at https://github.com/nuxt-community/tailwindcss-module/issues/127. The key ingredient here is the `important` flag in the `tailwind.config.js` file.
 
+## CodeSandbox link: https://codesandbox.io/s/modest-sound-sib1u
+
 ## Build Setup
 
 ```bash
